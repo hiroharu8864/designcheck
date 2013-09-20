@@ -1,4 +1,5 @@
 designcheck
 ===========
 
-bootstrap test page http://mailwalker.jp/designcheck/
+bootstrap test page 
+http://mailwalker.jp/designcheck/
